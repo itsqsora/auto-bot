@@ -8,11 +8,9 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver import ActionChains
 
 
-# user = input("Enter your username: ")
-# pw = input("Enter your password: ")
+user = input("Enter your username: ")
+pw = input("Enter your password: ")
 
-user = input('Enter your username: ')
-pw = 'Enter your password'
 print('Keep In Mind This is could not save your password, Until your edit at 14th and 15th line into Your password and username.')
 
 
